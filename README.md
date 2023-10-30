@@ -16,7 +16,7 @@ This project implements a solution for Pune Metro Route Traversal.
 1. Clone the repository:
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/nachiket-15/Pune_Metro_Connect.git
    ```
 
 2. Navigate to the project directory:
